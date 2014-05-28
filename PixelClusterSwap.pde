@@ -1,5 +1,6 @@
-//Processing sketch
-//Swaps similar groups of 10x10 pixels within an image on an aligned grid.
+// Processing sketch
+// Swaps similar groups of 10x10 pixels within an image on an aligned grid.
+// Achieves the effect seen here: https://vimeo.com/21957179
  
 /*The MIT License (MIT)
  
