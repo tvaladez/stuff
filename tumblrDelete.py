@@ -1,4 +1,5 @@
-# deletes all but x posts from a tumblr blog.
+# deletes all but x most recent posts from a tumblr blog.
+# may be used to age off posts.
 
 import pytumblr
 
