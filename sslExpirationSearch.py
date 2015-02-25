@@ -4,8 +4,7 @@
 import socket, ssl, pprint
 from netaddr import *
 import time
-from datetime import datetime
-from datetime import timedelta
+from datetime import datetime, timedelta
 
 threshold = 90 #days until cert expiration
 subnets = ['10.10.10.1/24','10.10.11.1/24'] #subnets to scan
