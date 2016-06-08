@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# FLARE On Final Challenge 7
+# FLARE On Final Challenge 7 (2014)
 # http://www.flare-on.com/
 # Thomas Valadez (@tvldz)
 # First, extract the encrypted binary from the C7 executable and save it
